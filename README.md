@@ -36,6 +36,10 @@ $ pnpm run test:e2e
 $ pnpm run test:cov
 ```
 
+## CoinCap API
+
+This project uses the CoinCap API to get the latest price of cryptocurrencies. You can find more information about the CoinCap API [here](https://docs.coincap.io/).
+
 ## Stay in touch
 
 - Author - [Chen Lay](mailto:mr.chenlay@gmail.com)
